@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Farshid. I was a embbeded developer about 3 years ago. I was working with zynq board, writing vhdl and verilog codes and working on embbeded board like raspberry and blackboard. I have a master degree in biomedial enginnerring from University of tehran and work on image processing and so on. Now from this long journey come to web development and i am a full-time frontend developer and also work some backend stuff with python. 
+
 <!--
 **bashidagha/bashidagha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
