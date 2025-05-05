@@ -2,9 +2,8 @@
 
 My name is Farshid. I was a <b> embbeded developer </b> about 3 years ago. I was working with <b> zynq board </b>, writing vhdl and verilog codes and working on embbeded board like raspberry and blackboard.<br/> I have a master degree in biomedial enginnerring from <b> University of Tehran </b> and worked on image processing and so on. <br/> Now from this long journey come to web development and i am a full-time <b> frontend developer </b> and also work some backend stuff with python.
 
-### React + React native + Next + Gatsby
+### Pure Js + React + React native + Next + Gatsby
 ### Python + Django + Fastapi
-### Vuejs + Svelete
 
 <!--
 **bashidagha/bashidagha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
